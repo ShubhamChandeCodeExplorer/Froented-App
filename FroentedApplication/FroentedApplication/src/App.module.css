@@ -1,0 +1,12 @@
+.container {
+  background-color: aliceblue;
+  margin-left: 450px;
+  border-radius: 10px;
+  width: 500px;
+}
+
+.input {
+  width: 400px;
+  margin: 20px;
+  border-radius: 5px;
+}
